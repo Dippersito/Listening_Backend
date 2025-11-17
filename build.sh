@@ -10,3 +10,5 @@ python manage.py collectstatic --no-input
 
 # 3. Aplicar las migraciones de la base de datos
 python manage.py migrate
+
+python manage.py createsuperuser --noinput || echo "Superuser already exists."
