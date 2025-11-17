@@ -9,7 +9,7 @@ from django.conf import settings
 IMAGE_URL = 'https://i.imgur.com/wrhMggB.jpeg'
 LOCATION_URL = 'https://maps.app.goo.gl/dcHkQ1RAbjMp7p6B8'
 # Usamos la fecha de la imagen (28 de Nov)
-EVENT_DATE = '28 de Noviembre, 8:00 pm' 
+EVENT_DATE = '5 de Diciembre, 8:00 pm' 
 EVENT_NAME = 'PERDIDO EN EL FINDE - LISTENING PARTY'
 EVENT_PLACE = 'Residencial los Olmos E1 - JLByR'
 
