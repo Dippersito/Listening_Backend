@@ -102,7 +102,7 @@ def send_confirmation_email(name, email):
     
     # --- Quién envía ---
     # IMPORTANTE: Este email debe estar validado como "Sender" en tu cuenta de Brevo.
-    sender = {"name": "PERDIDO EN EL FINDE", "email": "no-reply@tu-dominio.com"} 
+    sender = {"name": "PERDIDO EN EL FINDE", "email": "stephano.cornejoc@gmail.com"} 
     
     # --- Quién recibe ---
     to = [{"email": email, "name": name}]
