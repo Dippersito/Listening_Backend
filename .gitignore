@@ -1,0 +1,12 @@
+# .gitignore
+
+# Entorno virtual
+finde_env/
+*.venv/
+venv/
+
+# Archivo de secretos locales
+.env
+
+# Base de datos local
+db.sqlite3
